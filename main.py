@@ -9,9 +9,7 @@ from scraper import GroupsScraper
 from facebook_scraper.exceptions import LoginError
 from html_generator import *
 import utils
-#fake email: jobjob31@walla.com
-#fb password: 66916691
-#email password: magav2013
+
 
 class Main:
     log_id = 1
