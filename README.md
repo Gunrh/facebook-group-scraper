@@ -2,7 +2,7 @@
 A GUI app that allows post scraping from Facebook groups, using keywords to filter relevant posts.  
 Was mainly developed to assist with finding relevant jobs, by keywords.
 
-# Credentials
+\b Credentials\b
 Inside the GUI app, insert you credentials.
 
 This allows you to scrape from private groups you've joined to.
