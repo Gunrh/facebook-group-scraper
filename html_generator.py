@@ -2,7 +2,6 @@ import jinja2
 import datetime
 import os
 
-
 def generate_html(posts):
     templates_path = "./web/templates"
     output_path = "./output"
