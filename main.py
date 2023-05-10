@@ -10,7 +10,6 @@ from facebook_scraper.exceptions import LoginError
 from html_generator import *
 import utils
 
-
 class Main:
     log_id = 1
     log = ""
